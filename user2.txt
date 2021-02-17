@@ -1,5 +1,11 @@
 chaluva file
+<<<<<<< HEAD
 
 chandrakala modifying file
 
 
+=======
+modified changes from chaluva
+>>>>>>> 7e4cb747afb6663d96c6d7b8db73cdfc8d4fbed6
+
+chandu modifying again
